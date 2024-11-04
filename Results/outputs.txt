@@ -1,0 +1,5 @@
+we got different output with different classifiers:-
+mean shifts classifier = 100% accuracy
+KNeighborsClassifier(KNN) = 96.67% accuracy
+K-means = 66.67% accuracy
+Minimum Distance Classifier Accuracy: 97.50%
